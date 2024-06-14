@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Auralinc
-- 👀 I’m interested in ...Music, collaboration, audio production, live sound and the interface of that from hardware to softwear 
+- 👀 I’m interested in ...Music, collaboration, audio production, live sound and the interface of that from hardware to softwear
 - 🌱 I’m currently learning ... Python (finally)
 - 💞️ I’m looking to collaborate on ... lots 
 - 📫 How to reach me ... auralinc@gmail.com
